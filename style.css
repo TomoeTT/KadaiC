@@ -6,6 +6,7 @@
 }
  
 body{
+ 　　　　　　background-color: #1C2462;
     display: grid;                  /* CSSグリッド */
     grid-template-columns: 100vw;   /* ビューポート幅最大 */
     grid-template-rows: 100vh;      /* ビューポート高さ最大 */
